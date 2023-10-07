@@ -24,11 +24,11 @@ Your all-in-one solution for efficient cloud-based file management. This web app
 
 ## Preview
 
-![preveiw]('./preview.png')
+![preveiw](./preview.png)
 
 ### preview dark theme
 
-![preveiw]('./preview-dark.png')
+![Dark Mode Preview](./preview-dark.png)
 
 ## Tech Stack
 
