@@ -2,22 +2,33 @@
 
 Next Drive is a powerful web application that closely resembles Google Drive. It is designed to simplify file management tasks such as uploading, organizing files into folders (including nested folders), and offering a comprehensive search functionality, among other essential features.
 
+---
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
+1. [Preview](#preview)
+1. [Getting Started](#getting-started)
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
-3. [Project Structure](#project-structure)
-4. [Usage](#usage)
-5. [Configuration](#configuration)
-6. [Deployment](#deployment)
-7. [Contributing](#contributing)
-8. [License](#license)
+1. [Project Structure](#project-structure)
+1. [Usage](#usage)
+1. [Configuration](#configuration)
+1. [Deployment](#deployment)
+1. [Contributing](#contributing)
+1. [License](#license)
 
 ## Introduction
 
 Your all-in-one solution for efficient cloud-based file management. This web application simplifies the process of uploading, organizing, and accessing your files securely, no matter where you are. Whether you need to store personal documents, collaborate with others, or simply find a specific file in a massive collection, Next Drive has you covered.
+
+## Preview
+
+![preveiw]('./preview.png')
+
+### preview dark theme
+
+![preveiw]('./preview-dark.png')
 
 ## Tech Stack
 
